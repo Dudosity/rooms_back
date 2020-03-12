@@ -1,0 +1,23 @@
+2020-03-06 14:12:05.758695  Проблемы с ЦИАНОМ
+2020-03-10 13:40:44.960850  Something wrong with CIAN
+2020-03-10 14:36:56.904140  Something wrong with CIAN
+2020-03-10 15:09:44.070510  Something wrong with CIAN
+2020-03-10 15:19:39.193521  Something wrong with CIAN
+2020-03-10 16:24:14.183127  Something wrong with CIAN
+2020-03-10 16:30:56.919794  Something wrong with CIAN
+2020-03-10 16:37:31.279010  Something wrong with CIAN
+2020-03-10 17:16:42.637562  Something wrong with CIAN
+2020-03-10 18:17:22.741786  Something wrong with CIAN
+2020-03-10 18:31:45.875833  Something wrong with CIAN
+2020-03-10 18:32:25.198684  Something wrong with CIAN
+2020-03-10 19:18:21.202385  Something wrong with CIAN
+2020-03-10 19:22:01.978912  Something wrong with CIAN
+2020-03-11 07:49:40.654294  Something wrong with CIAN
+2020-03-11 07:55:20.799849  Something wrong with CIAN
+2020-03-11 10:35:34.751355  Something wrong with CIAN
+2020-03-11 12:08:06.899128  Something wrong with CIAN
+2020-03-11 12:08:20.139549  Something wrong with CIAN
+2020-03-11 12:29:32.091830  Something wrong with CIAN
+2020-03-11 12:33:54.332312  Something wrong with CIAN
+2020-03-11 12:42:16.854016  Something wrong with CIAN
+2020-03-11 13:09:14.795958  Something wrong with CIAN
